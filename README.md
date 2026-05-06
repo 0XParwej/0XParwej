@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Smart Contract Security Portfolio
+
+## Audit Contests & Findings
+
+| Platform | Protocol / Contest | Language | Severity | Rank | Status |
+|----------|-------------------|----------|----------|------|--------|
+| CodeHawks | RAAC Protocol | Solidity | High | - | Accepted |
+| HackenProof | DexLyn Smart Contract Audit Contest | Move | Medium | 15 | Accepted |
+
+---
+
+## Profiles
+
+- :contentReference[oaicite:0]{index=0}
+- :contentReference[oaicite:1]{index=1} : https://hackenproof.com/hackers/parwejsr?tab=programs
+
+---
+
+## Skills
+
+- Solidity Security
+- Move Smart Contract Auditing
+- Foundry
+- Slither
+- Fuzz Testing
+- Invariant Testing
+- DeFi Protocol Analysis
