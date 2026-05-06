@@ -20,15 +20,18 @@ Here are some ideas to get you started:
 
 | Platform | Protocol / Contest | Language | Severity | Rank | Status |
 |----------|-------------------|----------|----------|------|--------|
-| CodeHawks | RAAC Protocol | Solidity | High | - | Accepted |
+| CodeHawks | RAAC Protocol | Solidity | High | 415 | Accepted |
 | HackenProof | DexLyn Smart Contract Audit Contest | Move | Medium | 15 | Accepted |
 
 ---
 
 ## Profiles
 
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1} : https://hackenproof.com/hackers/parwejsr?tab=programs
+- :contentReference[oaicite:0]{index=0}  
+  https://profiles.cyfrin.io/u/parmakhanm786
+
+- :contentReference[oaicite:1]{index=1}  
+  https://hackenproof.com/hackers/parwejsr?tab=programs
 
 ---
 
