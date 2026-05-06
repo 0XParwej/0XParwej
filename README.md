@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **0XParwej/0XParwej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Smart Contract Security Portfolio
+# Hi there 👋 I'm Parwej
 
-## Audit Contests & Findings
+## Smart Contract Security Researcher
+
+Focused on Solidity and Move smart contract auditing, protocol security, invariant analysis, and vulnerability research.
+
+---
+
+## 🛡️ Audit Portfolio
 
 | Platform | Protocol / Contest | Language | Severity | Rank | Status |
 |----------|-------------------|----------|----------|------|--------|
@@ -25,15 +29,13 @@ Here are some ideas to get you started:
 
 ---
 
-## Profiles
+## 🔗 Security Profiles
 
-- :contentReference[oaicite:0]{index=0}  
-  https://profiles.cyfrin.io/u/parmakhanm786
-
-- :contentReference[oaicite:1]{index=1}  
-  https://hackenproof.com/hackers/parwejsr?tab=programs
+- [CodeHawks / Cyfrin Profile](https://profiles.cyfrin.io/u/parmakhanm786)
+- [HackenProof Profile](https://hackenproof.com/hackers/parwejsr?tab=programs)
 
 ---
+
 
 ## Skills
 
@@ -44,3 +46,5 @@ Here are some ideas to get you started:
 - Fuzz Testing
 - Invariant Testing
 - DeFi Protocol Analysis
+
+⭐ Always learning, auditing, and exploring blockchain security.
